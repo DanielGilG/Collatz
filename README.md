@@ -4,3 +4,4 @@
 2- The number in int.
 
 The **output** is the print of all the internal arrays in the program and the plotting of the values in a graph.
+*(try out plotting numbers 27 and 195)*
