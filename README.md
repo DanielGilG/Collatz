@@ -1,8 +1,6 @@
-```
 ⚠ ///////////////////⚠
 ⚠ ////// W.I.P //////⚠
 ⚠ ///////////////////⚠
-```
 > Use this code at your own risks >:)
 
 # Collatz's Conjecture
