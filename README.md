@@ -13,3 +13,4 @@ The **output** is the print of all the internal arrays in the program and the pl
 ```bash
 ./enviromentCreator.sh
 ```
+
