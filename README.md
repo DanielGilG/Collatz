@@ -1,4 +1,10 @@
-#////// W.I.P //////
+⚠ ///////////////////⚠
+
+⚠ ////// W.I.P //////⚠
+
+⚠ ///////////////////⚠
+> Use this code at your own risks >:)
+
 # Collatz's Conjecture
 ## Description
 ### The program needs 2 inputs.
@@ -13,3 +19,4 @@ The **output** is the print of all the internal arrays in the program and the pl
 ```bash
 ./enviromentCreator.sh
 ```
+
