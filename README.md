@@ -11,14 +11,15 @@ A Python program held in it's own Python Virtual Enviroment. Activity to test th
 ### About the code...
 The script will ask for numbers...
 1. The quantity of numbers that are going to be computed
-2. The number in int.
+2. The number in _int_ format.
 
-The **output** is the print of all the internal arrays in the program and the plotting of the values in a graph, following the Collatz's conjecture.
+The **output** is a plotted graph, following the Collatz's conjecture.
 
 > *(try out plotting numbers 27 and 195)*
 
 ## How to execute
 ```bash
+cd scripts/
 ./enviromentCreator.sh
 ```
 
