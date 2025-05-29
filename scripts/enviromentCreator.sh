@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 # Needs virtualenv installed
 # Create new enviroment
@@ -8,3 +8,9 @@
 virtualenv env1 
 source env1/bin/activate
 pip install -r ../requirements.txt
+
+echo 
+echo 
+echo ----------VIRTUAL ENVIROMENT DONE----------
+echo 
+echo 
