@@ -17,9 +17,13 @@ The **output** is a plotted graph, following the Collatz's conjecture.
 
 > *(try out plotting numbers 27 and 195)*
 
-## How to execute
+## How to set the enviroment
 ```bash
 cd scripts/
 ./enviromentCreator.sh
 ```
 
+## How to execute the script
+```bash
+python3 Collatz.py
+```
